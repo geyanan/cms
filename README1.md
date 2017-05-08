@@ -1,4 +1,4 @@
-#问题1
+# 问题1
 1. it技术人员的社交网站
 2. 是一个分布式的版本管理系统
 3. 可以看到其他人写的代码，方便交流
@@ -14,7 +14,7 @@
 13. 设置接收邮件提醒
 14. repositories，code，commits，issues，wikis，users
 15. 找到了很多有用的代码，丰富了自己的专业知识
-#问题2
+# 问题2
 1. New repository  新建仓库  Import repository  引入仓库  New gist  代码片段  New organization  新建组织
 2. Preview  </br>
 Settings -> GitHub Pages -> Sourse -> master branch -> saves -> 点击地址
@@ -41,7 +41,7 @@ Settings -> GitHub Pages -> Sourse -> master branch -> saves -> 点击地址
 23. 从暂存区提交到远程仓库中
 24. 远程仓库中的信息同步到本地仓库
 25. 本地仓库的信息同步到远程仓库中
-#问题3
+# 问题3
 1. Markdown 是一个 Web 上使用的文本到HTML的转换工具
 2. 易读易写，兼容html，平台支持，
 3. 编写说明文档，记录代码片段
